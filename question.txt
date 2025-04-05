@@ -1,0 +1,5 @@
+In the plane rectangular coordinate system, when a point \((m, n)\) is translated once, it can be transformed into the point (m + 1, n + 2)or the point (m + 2, n + 1). After performing several such translations on the point (1, 0), which of the following could be the coordinates of the resulting point?
+A. (11, 23)
+B. (13, 20)
+C. (19, 12)
+D. (26, 11)
